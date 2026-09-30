@@ -1,0 +1,22 @@
+gui:
+  themes:
+    redmond95:
+      foreground: "#c0c7c8"
+      background: "#000000"
+      black: "#000000"
+      maroon: "#a80000"
+      green: "#00a800"
+      olive: "#a85400"
+      navy: "#0000a8"
+      purple: "#a800a8"
+      teal: "#00a8a8"
+      silver: "#8a3a8a"
+      gray: "#545454"
+      red: "#fc5454"
+      lime: "#54fc54"
+      yellow: "#fcfc54"
+      blue: "#5454fc"
+      magenta: "#fc54fc"
+      cyan: "#54fcfc"
+      white: "#ffffff"
+      cursor: "#fc5454"
