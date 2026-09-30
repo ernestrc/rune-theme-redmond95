@@ -21,8 +21,12 @@ guitheme redmond95
 To use it at startup, set the following in your own `config.yaml`:
 
 ```yaml
-gui
+gui:
   default_theme: redmond95
 ```
 
-(installing the package does not change your default theme).
+Installing the package does not change your default theme.
+
+## Develop
+
+To create your own theme, fork this repo or read this [guide](https://docs.rune.build/docs/learn/themes#share-your-theme).
