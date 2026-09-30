@@ -1,4 +1,4 @@
-# Redmond 95 theme for Rune
+# `redmond95` theme for Rune
 
 A [theme package](https://docs.rune.build/docs/learn/themes#share-your-theme) for [Rune](https://rune.build) containing the `redmond95` palette.
 
@@ -18,5 +18,11 @@ Reload Rune, then:
 guitheme redmond95
 ```
 
-To use it at startup, set `gui.default_theme: redmond95` in your own
-`config.yaml`. Installing the package does not change your default theme.
+To use it at startup, set the following in your own `config.yaml`:
+
+```yaml
+gui
+  default_theme: redmond95
+```
+
+(installing the package does not change your default theme).
